@@ -33,11 +33,11 @@ Each subdirectory in this repository corresponds to a specific project or exampl
     </pre>
     <li> Install cv2 Library </li>
     <pre>
-        <code>pip install cv2</code>
+        <code>python.exe -m pip install --upgrade pip</code>
     </pre>
     Or
     <pre>
-        <code>pip3 install cv2</code>
+        <code>python.exe -m pip3 install --upgrade pip</code>
     </pre>
     <li> Run Python File </li>
     <pre>
